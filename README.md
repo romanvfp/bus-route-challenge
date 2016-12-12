@@ -1,1 +1,1 @@
-#  Micro service to quickly answer if two given stations are connected by a bus route.
+Micro service to quickly answer if two given stations are connected by a bus route.
